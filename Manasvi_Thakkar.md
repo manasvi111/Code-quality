@@ -7,3 +7,5 @@ URL: (https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principle
 **Article Name: Code Quality: What It Is and How To Measure It (With Tips)**
 URL: (https://www.indeed.com/career-advice/career-development/what-is-code-quality#:~:text=Typically%2C%20a%20code%20is%20high,Easy%20to%20understand)
 
+**Article Name: Defining High Quality Code**
+URL: (https://about.codecov.io/blog/defining-high-quality-code/)
